@@ -2,6 +2,4 @@ function hello() {
   return "world";
 }
 
-module.exports = {
-  hello,
-};
+export default hello;

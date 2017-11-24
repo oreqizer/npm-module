@@ -1,2 +1,2 @@
 /* @flow */
-declare export function hello(): string;
+declare export default function hello(): string;
