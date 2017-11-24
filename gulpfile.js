@@ -12,7 +12,7 @@ const buildLib = () =>
     .pipe(plumber())
     .pipe(
       babel({
-        presets: ["es2015"],
+        presets: ["env"],
         babelrc: false,
       }),
     )
