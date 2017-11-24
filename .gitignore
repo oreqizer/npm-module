@@ -61,3 +61,7 @@ typings/
 .atom
 .idea
 .vscode
+
+# Build
+es
+lib
